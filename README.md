@@ -1,4 +1,3 @@
-```markdown
 # Small Enterprise Network with Routing
 
 ## 📌 Description
@@ -73,11 +72,13 @@ ping```
 
 Network screenshots and test results are available in the screenshots folder.
 ##📚 Skills Practiced
-Subnetting
-Cisco network configuration
-Network troubleshooting
-Communication analysis
-Understanding gateway behavior
+
+- Subnetting
+- Cisco network configuration
+- Network troubleshooting
+- Communication analysis
+- Understanding gateway behavior
+
 ##🚀 Author
 
 Project created by Emmanuel as part of his networking and cybersecurity learning journey.
