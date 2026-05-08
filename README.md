@@ -46,25 +46,31 @@ The network includes:
 
 ### Interface G0/0
 
-```bash ip address 192.168.1.1 255.255.255.128
-no shutdown```
+```bash
+ip address 192.168.1.1 255.255.255.128
+no shutdown
+```
 
 ###Interface G0/1
 
-```bash ip address 192.168.1.129 255.255.255.128
-no shutdown```
+```bash
+ip address 192.168.1.129 255.255.255.128
+no shutdown
+```
 
 ##🧪 Tests Performed
 
 ###✔️ Interface Verification
 
 ```bash
-show ip interface brief```
+show ip interface brief
+```
 
 ###✔️ Connectivity Test
 
 ```bash
-ping```
+ping
+```
 
 ##Screenshots
 
