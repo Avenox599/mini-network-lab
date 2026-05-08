@@ -51,31 +51,32 @@ ip address 192.168.1.1 255.255.255.128
 no shutdown
 ```
 
-###Interface G0/1
+### Interface G0/1
 
 ```bash
 ip address 192.168.1.129 255.255.255.128
 no shutdown
 ```
 
-##🧪 Tests Performed
+## 🧪 Tests Performed
 
-###✔️ Interface Verification
+### ✔️ Interface Verification
 
 ```bash
 show ip interface brief
 ```
 
-###✔️ Connectivity Test
+### ✔️ Connectivity Test
 
 ```bash
 ping
 ```
 
-##Screenshots
+## Screenshots
 
 Network screenshots and test results are available in the screenshots folder.
-##📚 Skills Practiced
+
+## 📚 Skills Practiced
 
 - Subnetting
 - Cisco network configuration
@@ -83,6 +84,6 @@ Network screenshots and test results are available in the screenshots folder.
 - Communication analysis
 - Understanding gateway behavior
 
-##🚀 Author
+## 🚀 Author
 
 Project created by Emmanuel as part of his networking and cybersecurity learning journey.
